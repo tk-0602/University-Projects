@@ -1,7 +1,7 @@
 # Projects
 
 ## University projects
-  A list of python projects I completed for coursework university.
+  A list of python projects I completed as part of various coursework at university.
   
   <details>
     <summary><h4>MCMC Doppler analysis</h4></summary>
