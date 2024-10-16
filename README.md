@@ -14,16 +14,6 @@
   </details>
   
   <details>
-    <summary><h4>CNN for identifying different parts of the Mars rover and then modifying it to perform binary calssification</h4></summary>
-    Text 3
-  </details>
-  
-  <details>
-    <summary><h4>CNN for classifying images from anime and regression with MLP using quasar brightness in i- and r-bands to predict z-band brightness</h4></summary>
-    Text 4
-  </details>
-  
-  <details>
     <summary><h4>"Modelling the Effects of Dark Matter on the Cosmic Microwave Background"</h4></summary>
     Simulated CMB maps for varying levels of dark matter using the Code for Anisotropies in the Microwave Background (CAMB) and compared them to the CMB map generated from theoretical data from the Planck 2018 mission.
   </details>
