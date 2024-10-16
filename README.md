@@ -1,4 +1,4 @@
-# Projects
+# Python-Projects
 
 ## University projects
   A list of python projects I completed as part of various coursework at university.
