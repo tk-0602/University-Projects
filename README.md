@@ -14,7 +14,7 @@
   </details>
   
   <details>
-    <summary><h3>"Modelling the Effects of Dark Matter on the Cosmic Microwave Background"</h3></summary>
+    <summary><h3>Thesis - "Modelling the Effects of Dark Matter on the Cosmic Microwave Background"</h3></summary>
     Simulated CMB maps for varying levels of dark matter using the Code for Anisotropies in the Microwave Background (CAMB) and compared them to the CMB map generated from theoretical data from the Planck 2018 mission.
   </details>
 
