@@ -9,7 +9,7 @@ Text 1
 </details>
 
 <details>
-<summary><h3>Compareing ODE solvers for 2- and 3-body systems</h3></summary>
+<summary><h3>Comparing ODE solvers for 2- and 3-body systems</h3></summary>
 Text 2
 </details>
 
