@@ -16,8 +16,3 @@ Text 1
 <summary><h3>Comparing ODE solvers for 2- and 3-body systems</h3></summary>
 Text 2
 </details>
-
-<details>
-<summary><h3>Sentiment analysis of airline reviews</h3></summary>
-(Part of Forage British Airways Data Science Virtual Experience Program)
-</details>
