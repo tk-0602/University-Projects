@@ -40,7 +40,7 @@ This work can be extended by:
 </details>
 
 <details>
-<summary><h3>MCMC Doppler analysis</h3></summary>
+<summary><h3>Analysis of extrasolar planets using the Doppler technique on stellar radial velocity data</h3></summary>
 
 This project focuses on detecting and characterising extrasolar planets using radial velocity data obtained through the Doppler technique. I used a variant of the Metropolis-Hastings algorithm to fit circular orbital models to real data, extracting key planetary and orbital parameters.
 
@@ -71,7 +71,7 @@ This project fits into the broader context of missions like Kepler, TESS, and th
 </details>
 
 <details>
-<summary><h3>Comparing ODE solvers for 2- and 3-body systems</h3></summary>
+<summary><h3>Comparison of ODE solving methods in plotting the orbits of two- and three- body systems</h3></summary>
 
 I simulated the orbital dynamics of two- and three-body systems, specifically the Earth-Sun and Mercury-Earth-Sun systems. I implemented and compared three numerical integration methods: the fourth-order Runge-Kutta (RK4) method, `scipy.integrate.ode`, and `scipy.integrate.odeint`.
 
