@@ -5,11 +5,15 @@ The various Python projects I have completed during my degree at Queen Mary Univ
 <details>
 <summary><h3>Thesis - "Modelling the Effects of Dark Matter on the Cosmic Microwave Background"</h3></summary>
 
-I simulated CMB maps for varying levels of dark matter using the Code for Anisotropies in the Microwave Background (CAMB). Following this, I compared these maps to the CMB map generated from theoretical data obtained from the Planck 2018 mission. The theoretical data used as a comparison was read in from the `COM_PowerSpect_CMB-base-plikHM-TTTEEE-lowl-lowE-lensing-minimum-theory_R3.01.txt` file.
+I simulated CMB maps for varying levels of dark matter using the Code for Anisotropies in the Microwave Background (CAMB). Following this, I compared these maps to the CMB map generated from theoretical data obtained from the Planck 2018 mission. The theoretical data used as a comparison was read in from the `COM_PowerSpect_CMB-base-plikHM-TTTEEE-lowl-lowE-lensing-minimum-theory_R3.01.txt` file, also uploaded to this repository.
 
 <!---
 I explored how varying levels of dark matter influence the Cosmic Microwave Background (CMB). Using the Code for Anisotropies in the Microwave Background (CAMB), I simulated theoretical CMB maps and compared them to Planck 2018 observational data. The project demonstrates my ability to combine theoretical physics with computational tools to study complex cosmological phenomena.
 -->
+
+| Data | Link |
+| --- | --- |
+| Theoretical data from Planck 2018 mission | [COM_PowerSpect_CMB-base-plikHM-TTTEEE-lowl-lowE-lensing-minimum-theory_R3.01.txt](COM_PowerSpect_CMB-base-plikHM-TTTEEE-lowl-lowE-lensing-minimum-theory_R3.01.txt) |
 
 ## Key Features:
 
@@ -42,7 +46,13 @@ This work can be extended by:
 <details>
 <summary><h3>Analysis of extrasolar planets using the Doppler technique on stellar radial velocity data</h3></summary>
 
-This project focuses on detecting and characterising extrasolar planets using radial velocity data obtained through the Doppler technique. I used a variant of the Metropolis-Hastings algorithm to fit circular orbital models to real data, extracting key planetary and orbital parameters.
+This project focuses on detecting and characterising extrasolar planets using radial velocity data obtained through the Doppler technique. I used a variant of the Metropolis-Hastings algorithm to fit circular orbital models to real data, extracting key planetary and orbital parameters. In the table below are the three data files used in the notebook: the first, `51-Peg.dat`, is the test radial velocity data where the parameter values were known prior, while the remaining two files (`star-01.dat` and `star-02.dat`) have unkown parameters which are estimated with the method here. With this, the code can be validated against known reults, improving its reliability for the other two data files.
+
+| Data | Link |
+| --- | --- |
+| 51-Pegasi | [51-Peg.dat](Exoplanet star files/51-Peg.dat) |
+| Star 1 | [star-01.dat](Exoplanet star files/star-01.dat) |
+| Star 2 | [star-02.dat](Exoplanet star files/star-02.dat) |
 
 ## Key Features:
 
