@@ -5,7 +5,7 @@ The various Python projects I have completed during my degree at Queen Mary Univ
 <details>
 <summary><h3>Thesis - "Modelling the Effects of Dark Matter on the Cosmic Microwave Background"</h3></summary>
 
-I simulated CMB maps for varying levels of dark matter using the Code for Anisotropies in the Microwave Background (CAMB). Following this, I compared these maps to the CMB map generated from theoretical data obtained from the Planck 2018 mission.
+I simulated CMB maps for varying levels of dark matter using the Code for Anisotropies in the Microwave Background (CAMB). Following this, I compared these maps to the CMB map generated from theoretical data obtained from the Planck 2018 mission. The theoretical data used as a comparison was read in from the `COM_PowerSpect_CMB-base-plikHM-TTTEEE-lowl-lowE-lensing-minimum-theory_R3.01.txt` file.
 
 <!---
 I explored how varying levels of dark matter influence the Cosmic Microwave Background (CMB). Using the Code for Anisotropies in the Microwave Background (CAMB), I simulated theoretical CMB maps and compared them to Planck 2018 observational data. The project demonstrates my ability to combine theoretical physics with computational tools to study complex cosmological phenomena.
