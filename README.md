@@ -46,7 +46,7 @@ This work can be extended by:
 <details>
 <summary><h3>Analysis of extrasolar planets using the Doppler technique on stellar radial velocity data</h3></summary>
 
-This project focuses on detecting and characterising extrasolar planets using radial velocity data obtained through the Doppler technique. I used a variant of the Metropolis-Hastings algorithm to fit circular orbital models to real data, extracting key planetary and orbital parameters. In the table below are the three data files used in the notebook: the first, `51-Peg.dat`, is the test radial velocity data where the parameter values were known prior, while the remaining two files (`star-01.dat` and `star-02.dat`) have unkown parameters which are estimated with the method here. With this, the code can be validated against known reults, improving its reliability for the other two data files.
+This project focused on detecting and characterising extrasolar planets using radial velocity data obtained through the Doppler technique. I used a variant of the Metropolis-Hastings algorithm to fit circular orbital models to real data, extracting key planetary and orbital parameters. In the table below are the three data files used in the notebook: the first, `51-Peg.dat`, is the test radial velocity data where the parameter values were known prior, while the remaining two files (`star-01.dat` and `star-02.dat`) have unkown parameters which are estimated with the method here. With this, the code can be validated against known reults, improving its reliability for the other two data files.
 
 | Data | Link |
 | --- | --- |
