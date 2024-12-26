@@ -50,9 +50,9 @@ This project focuses on detecting and characterising extrasolar planets using ra
 
 | Data | Link |
 | --- | --- |
-| 51-Pegasi | [51-Peg.dat](Exoplanet star files/51-Peg.dat) |
-| Star 1 | [star-01.dat](Exoplanet star files/star-01.dat) |
-| Star 2 | [star-02.dat](Exoplanet star files/star-02.dat) |
+| 51-Pegasi | [51-Peg.dat](https://github.com/tk-0602/University-Projects/blob/80131e5599cde9d2dbfb7efb0fbc5efa804d233b/Exoplanet%20star%20files/51-Peg.dat) |
+| Star 1 | [star-01.dat](https://github.com/tk-0602/University-Projects/blob/80131e5599cde9d2dbfb7efb0fbc5efa804d233b/Exoplanet%20star%20files/star-01.dat) |
+| Star 2 | [star-02.dat](https://github.com/tk-0602/University-Projects/blob/80131e5599cde9d2dbfb7efb0fbc5efa804d233b/Exoplanet%20star%20files/star-02.dat) |
 
 ## Key Features:
 
