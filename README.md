@@ -19,7 +19,9 @@ I explored how varying levels of dark matter influence the Cosmic Microwave Back
 
 - Simulated CMB power spectra and maps for varying dark matter densities.
 - Compared theoretical simulations to Planck 2018 datasets to identify discrepancies.
-- Used Python libraries like `camb`, `healpy`, and `matplotlib` to process data and visualise results.
+- Used Python libraries like `camb`, `healpy`, `numpy`, `pandas` and `matplotlib` to process data and visualise results.
+
+> Note: The `healpy` library, essential for handling spherical maps, is supported for macOS and Linux. For Windows users, it is highly recommended to use the **Windows Subsystem for Linux (WSL)** for the best compatibility.
 
 ## Results:
 
@@ -37,7 +39,7 @@ I explored how varying levels of dark matter influence the Cosmic Microwave Back
 ## Potential Extensions:
 This work can be extended by:
 
-- Exploring alternative dark matter hpotheses using `camb`, such as Weakly Interacting Massive Particles (WIMPs) or Primordial Black Holes.
+- Exploring alternative dark matter hypotheses using `camb`, such as Weakly Interacting Massive Particles (WIMPs) or Primordial Black Holes.
 - Incorporating datasets from WMAP and upcoming Simons Observatory data, with a particular focus on connecting CMB observations to gravitational wave studies.
 - Refining the simulation process by applying machine learning techniques to extract features, detect anomalies, and improve parameter estimation.
 
