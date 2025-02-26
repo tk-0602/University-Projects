@@ -30,6 +30,10 @@ I explored how varying levels of dark matter influence the Cosmic Microwave Back
 - Identified consistent patterns between the simulated maps and Planck data, validating the CAMB-based modelling approach.
 - Highlighted discrepancies that could point to additional factors or alternative models influencing the CMB.
 
+<img src = "DM Effects plots/Power_Spectra_Generated.png">
+<img src = "DM Effects plots/CMB_Sky_Maps_Generated.png">
+<img src = "DM Effects plots/PS_Changes_Diff_Zoomed.png">
+
 ## Applications:
 
 - Analyse dark matter’s role in shaping the early universe.
