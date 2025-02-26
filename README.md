@@ -32,16 +32,16 @@ I explored how varying levels of dark matter influence the Cosmic Microwave Back
 
 ## Applications:
 
-- Analysing dark matter’s role in shaping the early universe.
-- Supporting cosmological studies by combining observational data and simulations.
-- Providing a foundation for further research into alternative dark matter models and their observational signatures.
+- Analyse dark matter’s role in shaping the early universe.
+- Support cosmological studies by combining observational data and simulations.
+- Provide a foundation for further research into alternative dark matter models and their observational signatures.
 
 ## Potential Extensions:
 This work can be extended by:
 
-- Exploring alternative dark matter hypotheses using `camb`, such as Weakly Interacting Massive Particles (WIMPs) or Primordial Black Holes.
-- Incorporating datasets from WMAP and upcoming Simons Observatory data, with a particular focus on connecting CMB observations to gravitational wave studies.
-- Refining the simulation process by applying machine learning techniques to extract features, detect anomalies, and improve parameter estimation.
+- Explore alternative dark matter hypotheses using `camb`, such as Weakly Interacting Massive Particles (WIMPs) or Primordial Black Holes.
+- Incorporate datasets from WMAP and upcoming Simons Observatory data, with a particular focus on connecting CMB observations to gravitational wave studies.
+- Refinine the simulation process by applying machine learning techniques to extract features, detect anomalies, and improve parameter estimation.
 
 </details>
 
